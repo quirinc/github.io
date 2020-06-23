@@ -4,3 +4,8 @@ Kvothe has pale skin and green eyes, though the intensity of this color is often
 He is exceptionally intelligent, quick-witted, sharp-tongued and clever, as well as a talented musician. He is also very curious, a quality that often gets him into trouble. He has a nasty temper, is reckless and often thoughtless.
 
 In the books, some evidence (mostly cover illustrations) suggest that he is left-handed.
+
+## Character traits
+* Clever
+* Very curious
+* Sharp-tongued
